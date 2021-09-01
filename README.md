@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Manvir Kaur
 - 👀 I’m interested in Full Stack Web Dev
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on React Projects
 - 📫 You can reach me on manvirkaur745@gmail.com
 
 <!---
